@@ -22,7 +22,7 @@ An end-to-end Power BI project analyzing pharmaceutical sales, returns, and inve
 The project focuses on identifying business challenges, understanding return reasons, monitoring inventory risks, and providing actionable recommendations to improve sales and inventory management.
 ## Dashboard Preview
 
-![Pharma Sales Dashboard](Screenshot%202026-11-13 172859.png)
+![Pharma Sales Dashboard](Screenshot2026-11-13%20172859.png)
 ## Dashboard Preview
 
-![Pharma Sales Dashboard](Screenshot%202026-11-13 172927.png)
+![Pharma Sales Dashboard](Screenshot2026-11-13%20172927.png)
